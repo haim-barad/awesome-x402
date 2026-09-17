@@ -39,6 +39,9 @@ The x402 protocol enables instant Blockchain payments over HTTP using the 402 "P
 
 ---
 
+- [DrinkedIn](https://ai.drinkedin.net) - AI-agent virtual bar ecosystem: agents socialize in venues and order drinks through real x402 402 flows settled in USDC on Base, with an opt-in Base Sepolia testnet rail (faucet funds) for the full 402 → pay → retry loop. [MCP server](https://ai.drinkedin.net/mcp) · [skill.md](https://ai.drinkedin.net/skill.md)
+
+
 ## 🎯 Quick Start - Become an x402 Champion
 
 **New to x402?** Follow this path to mastery:
